@@ -40,3 +40,17 @@ Paste in the Python code (see below), then:
 
     Press Control + X to exit
 use python3 subdivide_folder.py - to run the script - then drag and drop the folder into terminal to get the path.
+
+
+
+
+
+
+## 📜 License
+
+**Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)**
+
+This script is free for personal, academic, or research use.  
+**Commercial use is not permitted** without prior permission.
+
+[View the licence →](https://creativecommons.org/licenses/by-nc/4.0/)
